@@ -71,11 +71,11 @@ Node.js (Language for API), Express (Node.js Lib), Mongoose (ORM to database), N
 - 🍴 Fork this repo or download
 - 🔨 Hack away
 - 😊 Add yourself as a contributor
-- 🔧 Make a pull request [here](https://github.com/Bombarding/readme/compare)
+- 🔧 Make a pull request 
 
 > Or just create an issue - any little bit of help counts! 😊
 
-- 😯 Create an issue [here](https://github.com/Bombarding/readme/issues)!
+- 😯 Create an issue 
 
 ## Credits
 
