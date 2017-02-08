@@ -68,7 +68,7 @@ Node.js (Language for API), Express (Node.js Lib), Mongoose (ORM to database), N
 
 > To get started...
 
-- 🍴 Fork this repo [here](https://github.com/Bombarding/readme#fork-destination-box)
+- 🍴 Fork this repo or download
 - 🔨 Hack away
 - 😊 Add yourself as a contributor
 - 🔧 Make a pull request [here](https://github.com/Bombarding/readme/compare)
