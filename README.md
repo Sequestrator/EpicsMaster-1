@@ -3,9 +3,8 @@
 Clone or download repository: https://github.com/Bombarding/EpicsMaster.git
 
 # ReadMeeseks and Destroy
-# Epics Repository
 
-## Table of Contents
+> Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,9 +12,7 @@ Clone or download repository: https://github.com/Bombarding/EpicsMaster.git
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
-
-> Install this by following these steps...
+> Installation
 
 ### Front End
 ```
@@ -53,7 +50,7 @@ sudo ./mongo (client) (in new terminal)
 Server should be running on port 3000
 ```
 
-## Usage
+> Usage
 ```
 Front End:
 HTML5 (Markup), CSS3 (Sytling), Javascript (Language), JQuery (Dependancy)
@@ -64,7 +61,7 @@ Back End:
 Node.js (Language for API), Express (Node.js Lib), Mongoose (ORM to database), NPM (Node pkg Manager)
 ```
 
-## Contributing
+> Contributing
 
 > To get started...
 
@@ -77,7 +74,7 @@ Node.js (Language for API), Express (Node.js Lib), Mongoose (ORM to database), N
 
 - 😯 Create an issue 
 
-## Credits
+> Credits
 
 ```
 Author Alpha Phase:
@@ -89,7 +86,7 @@ Author Beta Phase:
 - Avery Cheatham (Quaternary Tech / Project Manager)
 
 ```
-# ToDo
+> ToDo
 ```
 Further implementations that need to be tackled include:
 •	Volunteer ability to create an account w/ user credentials
@@ -105,7 +102,7 @@ Further implementations that need to be tackled include:
 
 
 
-## License
+> License
 [![Github Issues](http://githubbadges.herokuapp.com/Bombarding/readme/issues.svg?style=flat-square)](https://github.com/Bombarding/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/Bombarding/readme/pulls.svg?style=flat-square)](https://github.com/Bombarding/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 ```
