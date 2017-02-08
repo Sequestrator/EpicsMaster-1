@@ -40,7 +40,7 @@ sudo ./mongo (client) (in new terminal)
 
 > Launch localhost@8000: grunt serve
 ```
-### Back End
+> Back End
 ```
 > Enter nodejs directory and run: sudo npm install
 
@@ -61,7 +61,7 @@ Node.js (Language for API), Express (Node.js Lib), Mongoose (ORM to database), N
 ```
 
 # Contributing
-
+```
 > To get started...
 
 - 🍴 Fork this repo or download
@@ -72,6 +72,7 @@ Node.js (Language for API), Express (Node.js Lib), Mongoose (ORM to database), N
 > Or just create an issue - any little bit of help counts! 😊
 
 - 😯 Create an issue 
+```
 
 # Credits
 
@@ -85,6 +86,7 @@ Author Beta Phase:
 - Avery Cheatham (Quaternary Tech / Project Manager)
 
 ```
+
 # ToDo
 ```
 Further implementations that need to be tackled include:
@@ -102,6 +104,7 @@ Further implementations that need to be tackled include:
 
 
 # License
+
 [![Github Issues](http://githubbadges.herokuapp.com/Bombarding/readme/issues.svg?style=flat-square)](https://github.com/Bombarding/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/Bombarding/readme/pulls.svg?style=flat-square)](https://github.com/Bombarding/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 ```
