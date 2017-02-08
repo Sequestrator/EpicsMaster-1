@@ -3,7 +3,6 @@
 Clone or download repository: https://github.com/Bombarding/EpicsMaster.git
 
 # ReadMeeseks and Destroy
-# Epics Repository
 
 ## Table of Contents
 
