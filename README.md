@@ -1,20 +1,24 @@
 ![Bombarding](https://wallpaperscraft.com/image/counter_strike_global_offensive_art_anarchist_game_card_steam_cs_go_97006_2560x1024.jpg)
 
+Clone or download repository: https://github.com/Bombarding/EpicsMaster.git
+
 # ReadMeeseks and Destroy
-> Clone or download repository: https://github.com/Bombarding/EpicsMaster.git
-# Table of Contents
+# Epics Repository
+
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [ToDo](#todo)
 - [License](#license)
 
-# Installation
+## Installation
 
-> Front End
+
 ```
+> *** Front End ***
+
 Clone or download repository: https://github.com/Bombarding/EpicsMaster.git
 
 > Install Node.js: sudo npm install
@@ -39,9 +43,9 @@ sudo ./mongo (client) (in new terminal)
 > Install bower: sudo bower install
 
 > Launch localhost@8000: grunt serve
-```
-> Back End
-```
+
+> *** Back End ***
+
 > Enter nodejs directory and run: sudo npm install
 
 > Enter Server Directory and run: node www
@@ -49,7 +53,7 @@ sudo ./mongo (client) (in new terminal)
 Server should be running on port 3000
 ```
 
-# Usage
+## Usage
 ```
 Front End:
 HTML5 (Markup), CSS3 (Sytling), Javascript (Language), JQuery (Dependancy)
@@ -60,22 +64,21 @@ Back End:
 Node.js (Language for API), Express (Node.js Lib), Mongoose (ORM to database), NPM (Node pkg Manager)
 ```
 
-# Contributing
+## Contributing
 ```
 > To get started...
 
-- 🍴 Fork this repo or download
+- 🍴 Fork this repo [here](https://github.com/Bombarding/readme#fork-destination-box)
 - 🔨 Hack away
 - 😊 Add yourself as a contributor
-- 🔧 Make a pull request 
+- 🔧 Make a pull request [here](https://github.com/Bombarding/readme/compare)
 
 > Or just create an issue - any little bit of help counts! 😊
 
-- 😯 Create an issue 
+- 😯 Create an issue [here](https://github.com/Bombarding/readme/issues)!
 ```
 
-# Credits
-
+## Credits
 ```
 Author Alpha Phase:
 - Chris McDonald (https://github.com/chrismcdonald0111)
@@ -87,7 +90,7 @@ Author Beta Phase:
 
 ```
 
-# ToDo
+## ToDo
 ```
 Further implementations that need to be tackled include:
 •	Volunteer ability to create an account w/ user credentials
@@ -101,10 +104,7 @@ Further implementations that need to be tackled include:
 •	Further improved visual aesthetics 
 ```
 
-
-
-# License
-
+## License
 [![Github Issues](http://githubbadges.herokuapp.com/Bombarding/readme/issues.svg?style=flat-square)](https://github.com/Bombarding/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/Bombarding/readme/pulls.svg?style=flat-square)](https://github.com/Bombarding/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 ```
