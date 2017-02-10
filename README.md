@@ -41,6 +41,8 @@ sudo ./mongo (client) (in new terminal)
 
 > Install bower: sudo bower install
 
+> Grunt install: npm install -g grunt-cli
+
 > Launch localhost@8000: grunt serve
 
 > *** Back End ***
