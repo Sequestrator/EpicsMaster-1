@@ -37,6 +37,8 @@ sudo ./mongo (client) (in new terminal)
 
 > Find Previous Repository Here: https://github.com/chrismcdonald0111/volunteer-service
 
+> Install Node.js
+
 > Install Packages: sudo npm install
 
 > Install bower: sudo bower install
@@ -52,6 +54,18 @@ sudo ./mongo (client) (in new terminal)
 > Enter Server Directory and run: node www
 
 Server should be running on port 3000
+```
+Node.js Condirmation
+```
+Node.js was installed at
+
+   /usr/local/bin/node
+
+npm was installed at
+
+   /usr/local/bin/npm
+
+Make sure that /usr/local/bin is in your $PATH.
 ```
 
 ## Usage
