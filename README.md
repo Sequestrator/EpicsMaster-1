@@ -55,7 +55,7 @@ sudo ./mongo (client) (in new terminal)
 
 Server should be running on port 3000
 ```
-Node.js Condirmation
+Node.js Confirmation
 ```
 Node.js was installed at
 
