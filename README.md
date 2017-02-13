@@ -41,7 +41,7 @@ sudo ./mongo (client) (in new terminal)
 
 > Install Packages: sudo npm install
 
-> Install bower: sudo bower install
+> Install bower: sudo npm install -g bower
 
 > Grunt install: npm install -g grunt-cli
 
