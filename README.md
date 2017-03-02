@@ -99,10 +99,6 @@ Author Alpha Phase:
 - Chris McDonald (https://github.com/chrismcdonald0111)
 Author Beta Phase:
 - Alex Steel (https://github.com/Bombarding)
-- Matthew Beebs (Secondary Tech)
-- Chris Jones (Tertiary Tech / Client Liason)
-- Avery Cheatham (Quaternary Tech / Project Manager)
-
 ```
 
 ## ToDo
